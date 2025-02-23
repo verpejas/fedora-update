@@ -1,7 +1,7 @@
 # fedora-update
 ## Utility for Fedora upgrade, flatpak update and firmware update
 
-An automated script to perform update tasks on Fedora using DNF and flatpak, as well as firmware upgrades using fwupd
+An automated script to perform update tasks on Fedora using DNF and flatpak, as well as firmware upgrades using fwupd. Also color coated sections for easier readability.
 
 I made this thing some time ago, i use it every couple days to update my machine. The script refreshes DNF metadata, performs an upgrade as well as updates all the flatpaks. At the end it asks if you want to reboot.
 
